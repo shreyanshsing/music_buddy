@@ -1,0 +1,11 @@
+.trailsText {
+    position: relative;
+    width: 100%;
+    will-change: transform, opacity;
+    overflow: hidden;
+}
+
+.trailsText > div {
+    overflow: hidden;
+}
+  

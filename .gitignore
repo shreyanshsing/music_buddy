@@ -1,0 +1,6 @@
+.air.toml
+.next
+.env
+node_modules
+bin
+tmp
